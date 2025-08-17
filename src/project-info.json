@@ -49,8 +49,8 @@
         "description": "A machine learning-based regression project designed to predict YouTube video views using metadata and engagement statistics. The analysis includes data cleaning, feature engineering, and model experimentation with Linear Regression, Random Forest, and XGBoost. Model performance is evaluated with RMSE, MAE, and R² Score, while feature importance analysis provides insights into the key factors influencing video popularity.",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/youtube-views-prediction/notebook.ipynb"
     },
-    "ab-testing-pengaruh-frekuensi-campaign-terhadap-konversi-pembukaan-akun-deposit": {
-        "title": "A/B Testing Pengaruh Frekuensi Campaign terhadap Konversi Pembukaan Akun Deposit",
+    "ab-testing-the-effect-of-campaign-frequency-on-deposit-account-opening": {
+        "title": "A/B Testing the Effect of Campaign Frequency on Deposit Account Opening",
         "description": "An A/B testing analysis designed to evaluate the impact of campaign frequency on deposit account openings in a banking context. Using bank dataset, the report examines whether higher campaign exposure influences user conversion rates, providing evidence-based insights to optimize marketing strategies and improve customer acquisition.",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/ab-testing-pengaruh-frekuensi-campaign-terhadap-konversi-pembukaan-akun-deposit/notebook.ipynb"
     },
@@ -91,7 +91,7 @@
     },
     "customer-analytics-preparing-data-for-modeling": {
         "title": "Customer Analytics: Preparing Data for Modeling",
-        "description": "A data preparation project focused on optimizing large-scale customer datasets for efficient machine learning modeling. Using customer_train.csv from Training Data Ltd., the project applies data cleaning and transformation techniques to improve storage efficiency and readiness for predictive modeling, enabling faster execution without compromising dataset integrity. This proof-of-concept supports future predictive analytics on student career intentions and targeted recruiter connections",
+        "description": "A data preparation project focused on optimizing large-scale customer datasets for efficient machine learning modeling. Using customer dataset from Training Data Ltd., the project applies data cleaning and transformation techniques to improve storage efficiency and readiness for predictive modeling, enabling faster execution without compromising dataset integrity.",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/customer-analytics-preparing-data-for-modeling/README.md"
     },
     "analyzing-crime-in-los-angeles": {
