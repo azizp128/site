@@ -82,7 +82,7 @@
     "titanic-survival-prediction": {
         "title": "Titanic Survival Prediction",
         "description": "An experiment with machine learning model deployment using the Django framework on Heroku. This project features a simple machine learning model that utilizes the Logistic Regression algorithm to predict the survival of passengers aboard the Titanic.",
-        "link": "https://github.com/azizp128/titanic-survival-prediction-django"
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/titanic-survival-prediction/README.md"
     },
     "exploring-nyc-public-school-test-result-scores": {
         "title": "Exploring NYC Public School Test Result Scores",
