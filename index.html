@@ -26,45 +26,6 @@
 
     <link href="/main.css" rel="stylesheet" />
 
-    <script>
-      let html = document.querySelector("html");
-      let theme = window.localStorage.getItem("theme");
-      if (theme) {
-        theme === "dark"
-          ? html.classList.add("dark")
-          : html.classList.remove("dark");
-      } else if (html.classList.contains("dark")) {
-        window.localStorage.setItem("theme", "dark");
-      } else {
-        html.classList.remove("dark");
-        window.localStorage.setItem("theme", "light");
-      }
-
-      window.onload = () => {
-        let themeToggle = document.querySelector(".theme-toggle");
-        if (window.localStorage.getItem("theme") === "dark") {
-          themeToggle.classList.remove("bi-moon-fill");
-          themeToggle.classList.add("bi-brightness-high");
-        } else {
-          themeToggle.classList.add("bi-moon-fill");
-          themeToggle.classList.remove("bi-brightness-high");
-        }
-
-        let defaultActivePanel = document.querySelector(".accordion.active");
-        if (defaultActivePanel) {
-          defaultActivePanel.nextElementSibling.style.maxHeight =
-            defaultActivePanel.nextElementSibling.scrollHeight + "px";
-        }
-      };
-
-      window.onresize = () => {
-        let defaultActivePanel = document.querySelector(".accordion.active");
-        if (defaultActivePanel) {
-          defaultActivePanel.nextElementSibling.style.maxHeight =
-            defaultActivePanel.nextElementSibling.scrollHeight + "px";
-        }
-      };
-    </script>
   </head>
   <body class="h-screen p-2 m-auto max-w-4xl flex flex-col">
     <header
@@ -88,23 +49,6 @@
         onclick="lightDark(this)"
       ></i>
     </header>
-
-    <script>
-      const lightDark = (el) => {
-        let html = document.querySelector("html");
-        if (html.classList.contains("dark")) {
-          html.classList.remove("dark");
-          el.classList.add("fa-moon");
-          el.classList.remove("fa-sun");
-          window.localStorage.setItem("theme", "light");
-        } else {
-          html.classList.add("dark");
-          el.classList.add("fa-sun");
-          el.classList.remove("fa-moon");
-          window.localStorage.setItem("theme", "dark");
-        }
-      };
-    </script>
 
     <main class="grow">
       <div class="grid grid-cols-1 md:grid-cols-5 gap-2 sm py-2">
@@ -205,46 +149,10 @@
             </h2>
 
             <div class="panel overflow-hidden px-2 ml-2">
-              <div class="">
-                <h4>
-                  <a href="https://github.com/azizp128/data-science-projects?tab=readme-ov-file#data-analysis"
-                    >Data Analysis Projects</a
-                  >
-                </h4>
-                <p class="markdownify indent-8">
-                  List of all Data Analysis projects I have worked on (and published).
-                </p>
-                <h4>
-                  <a href="https://github.com/azizp128/data-science-projects?tab=readme-ov-file#machine-learning--deep-learning"
-                    >Machine Learning Projects</a
-                  >
-                </h4>
-                <p class="markdownify indent-8">
-                  List of all Machine Learning projects I have worked on (and published).
-                </p>
-                <h4>
-                  <a
-                    href="https://github.com/azizp128/analisis-sentimen-bahasa-jawa-indobert"
-                    >Analisis Sentimen Bahasa Jawa IndoBERT</a
-                  >
-                </h4>
-                <p class="markdownify indent-8">
-                  Model analisis sentimen berbasis IndoBERT yang dapat
-                  memprediksi sentimen 'positif' atau 'negatif' dalam teks berbahasa Jawa Ngoko Lugu.
-                </p>
-                <h4>
-                  <a href="https://github.com/azizp128/prediksi-emosi-indobert"
-                    >Prediksi Emosi IndoBERT</a
-                  >
-                </h4>
-                <p class="markdownify indent-8">
-                  Model Deep Learning berbasis IndoBERT yang dapat memprediksi 6 jenis emosi dalam suatu kalimat, yaitu marah, sedih, senang, cinta, takut, dan jijik.
-                </p>
-                
+              <div class="project-list">              
               </div>
             </div>
           </div>
-
           <div class="px-2">
             <h2 class="my-0 accordion">
               <p
@@ -252,45 +160,53 @@
                 onclick="expandAccordion(this)"
                 style="cursor: pointer"
               >
-                <i class="fas fa-cogs"></i>
-                Challenges
+                <i class="fas fa-award"></i>
+                Achivements
               </p>
             </h2>
 
             <div class="panel overflow-hidden px-2 ml-2">
               <div class="">
                 <h4>
-                  <a href="https://github.com/azizp128/CTF-exploits"
-                    >CTF Solvers</a
+                  <a href="https://drive.google.com/file/d/1cueaQPVutdOVRUa8btGpO0kwvcu0lzC0/view"
+                    >Milenial Class & Bootcamp Certification</a
                   >
                 </h4>
-                <p class="markdownify indent-8">
-                  List of all the Capture The Flag (CTF) exploits and solvers that I wrote for fun.
+                <p class="markdownify">
+                  Successfully completed the Milenial Class and Milenial Bootcamp program under Talenta Juara Region Jawa-Bali 2020, acquiring specialized skills and competencies as a CEO (Hustler). This intensive program focused on developing entrepreneurial leadership capabilities and business acumen essential for modern executive roles.
                 </p>
                 <h4>
                   <a
-                    href="https://www.frontendmentor.io/profile/azizp128/solutions"
-                    >Frontend Mentor Web Development Challenges</a
+                    href="https://drive.google.com/file/d/1jSOhe3TjuPJS9N7AqtmnCxHqcBuFAfoY/view"
+                    >Google Data Analytics Professional Certificate</a
                   >
                 </h4>
-                <p class="markdownify indent-8">
-                  List of all the Frontend Mentor challenges I have completed.
+                <p class="markdownify">
+                  Successfully completed the Google Data Analytics Professional Certificate program through Dicoding's facilitation as part of the Beasiswa Aktivitas Digital Talent (BADT) 2022 Phase 2 initiative.
                 </p>
 
                 <h4>
                   <a
-                    href="https://leetcode.com/u/azizp128/"
-                    >LeetCode Problems</a
+                    href="https://drive.google.com/file/d/1CwF7rExDpY7nJkjom9ZMz0J9rjHU6Ii8/view"
+                    >JD.ID HSL (High School League) Esports Certificate</a
                   >
                 </h4>
-                <p class="markdownify indent-8">
-                  List of all the LeetCode problems I have solved.
+                <p class="markdownify">
+                  Awarded recognition for runner up in the Indonesian Junior High School E-Sports League JD.ID HSL PUBG Mobile 2019 Season 2, representing SMK 2 Surakarta as the 2nd Champion.
+                </p>
+                <h4>
+                  <a
+                    href="https://drive.google.com/file/d/1KivdwYjpjVnnN2HxRV9Qqs7Q-0nFgTuJ/view"
+                    >PUBGM Export UNS Runner Up</a
+                  >
+                </h4>
+                <p class="markdownify">
+                  Recognized for SXD 4WIN as 2nd Place Winner in the PUBG Central Java Export UNS competition, organized by Export UNS 2019 in Surakarta on November 2, 2019.
                 </p>
               </div>
             </div>
           </div>
-
-          <script src="/js/accordion.js"></script>
+          <script src="/js/script.js"></script>
         </div>
       </div>
     </main>

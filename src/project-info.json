@@ -1,0 +1,122 @@
+ {  
+    "hiring-decision-prediction": {
+        "title": "Hiring Decision Prediction",
+        "description": "A machine learning-based prediction system designed to assess candidate suitability in the recruitment process. It uses historical applicant data to predict hiring outcomes, helping streamline decision-making and improve the accuracy of candidate selection.",
+        "link": "https://github.com/azizp128/hiring-decision-prediction"
+    },
+    "ctf-solvers": {
+        "title": "CTF Solvers",
+        "description": "A curated collection of Capture The Flag (CTF) exploits and solvers I wrote for fun, covering web security, reverse engineering, binary exploitation, and more.",
+        "link": "https://github.com/azizp128/ctf-solvers"
+    },
+    "indobert-emotion-prediction": {
+        "title": "IndoBERT Emotion Prediction",
+        "description": "A deep learning-based emotion classification model using IndoBERT, trained on Twitter data to predict six emotions (anger, sadness, happiness, love, fear, disgust), and deployed via Hugging Face API with Streamlit.",
+        "link": "https://github.com/azizp128/prediksi-emosi-indobert"
+    },
+    "supplement-sales-analysis": {
+        "title": "Supplement Sales Analysis",
+        "description": "A data-driven sales analysis report evaluating the effectiveness of promotional discounts across regions and store types. By leveraging historical sales data, the report identifies key factors driving promotional success, providing actionable insights for WOMart to optimize campaign strategies and enhance revenue performance.",
+        "link": "https://docs.google.com/presentation/d/1Gw7qepyeSb50D-SZRzRGSpTDAuB4LW2Kyb6p2Ca0hiM/edit?usp=sharing"
+    },
+    "telco-customer-churn-prediction": {
+        "title": "Telco Customer Churn Prediction",
+        "description": "A machine learning-based predictive model designed to identify customers at high risk of churn in the telecommunications industry. Leveraging historical customer data, the model applies classification techniques and evaluates performance using F1-score, Precision, Recall, and ROC AUC. This enables proactive and data-driven retention strategies, helping the company reduce churn and strengthen customer loyalty.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/telco-customer-churn-prediction/notebook.ipynb"
+    },
+    "web-dev-projects": {
+        "title": "Web Development Projects",
+        "description": "A collection of frontend development challenges and mini-projects built with HTML, CSS, and JavaScript. This portfolio showcases practice work, design implementations, and responsive layout experiments created for fun and skill development.",
+        "link": "https://github.com/azizp128/web-dev-projects"
+    },
+    "indobert-javanese-language-sentiment-analysis": {
+        "title": "IndoBERT Javanese Language Sentiment Analysis",
+        "description": "A deep learning-based sentiment analysis model using IndoBERT, trained on Javanese Ngoko Lugu tweets, deployed via Hugging Face API and Streamlit.",
+        "link": "https://github.com/azizp128/analisis-sentimen-bahasa-jawa-indobert"
+    },
+    "Income Prediction": {
+        "title": "Income Prediction",
+        "description": "A machine learning project leveraging the UCI Adult Income dataset to predict whether an individual earns over $50K annually based on demographic and employment features. The pipeline integrates preprocessing and model training with XGBoost, supporting both single-input and batch CSV predictions. Beyond model development, the project demonstrates deployment best practices, showcasing production-ready solutions through Flask (Heroku) and an interactive Streamlit application.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/income-prediction/README.md"
+    },
+    "telco-customer-churn-analysis": {
+        "title": "Telco Customer Churn Analysis",
+        "description": "A data-driven analytical report examining customer churn patterns in the telecommunications industry. Using historical customer data, the analysis identifies key factors driving churn versus retention, providing actionable insights to design targeted retention strategies, improve service offerings, and support long-term revenue growth.",
+        "link": "https://docs.google.com/presentation/d/1pgEPjTATiOYSCdje7S8HOFDcKOVMgBbICMu2BefwKt0/edit?usp=sharing"
+    },
+    "youtube-channel-views-prediction": {
+        "title": "Youtube Channel Views Prediction",
+        "description": "A machine learning-based regression project designed to predict YouTube video views using metadata and engagement statistics. The analysis includes data cleaning, feature engineering, and model experimentation with Linear Regression, Random Forest, and XGBoost. Model performance is evaluated with RMSE, MAE, and R² Score, while feature importance analysis provides insights into the key factors influencing video popularity.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/youtube-views-prediction/notebook.ipynb"
+    },
+    "ab-testing-pengaruh-frekuensi-campaign-terhadap-konversi-pembukaan-akun-deposit": {
+        "title": "A/B Testing Pengaruh Frekuensi Campaign terhadap Konversi Pembukaan Akun Deposit",
+        "description": "An A/B testing analysis designed to evaluate the impact of campaign frequency on deposit account openings in a banking context. Using bank dataset, the report examines whether higher campaign exposure influences user conversion rates, providing evidence-based insights to optimize marketing strategies and improve customer acquisition.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/ab-testing-pengaruh-frekuensi-campaign-terhadap-konversi-pembukaan-akun-deposit/notebook.ipynb"
+    },
+    "categorical-feature-encoding-challenge-II": {
+        "title": "Categorical Feature Encoding Challenge II",
+        "description": "A machine learning project from the Kaggle ‘Categorical Feature Encoding Challenge II’, focused on handling diverse categorical variables including binary, nominal, ordinal, and cyclical features. The challenge involves experimenting with encoding techniques, addressing missing data, and exploring feature interactions to evaluate model performance across different algorithms.",
+        "link": "https://www.kaggle.com/code/azizp123/categorical-feature-encoding-challenge-ii"
+    },
+    "youtube-channel-dashboard-report": {
+        "title": "Youtube Channel Dashboard Report",
+        "description": "A data visualization dashboard designed to monitor YouTube channel performance, focusing on engagement metrics and audience growth trends. The dashboard provides insights for content strategists, marketing teams, and channel managers by highlighting key performance indicators, regional engagement distribution, and content effectiveness, enabling data-driven decisions to optimize growth and audience retention.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/youtube-channel-report-dashboard/README.md"
+    },
+    "analysis-of-the-most-popular-post-times-on-reddit-regarding-the-israel-palestine-conflict": {
+        "title": "Analysis of the Most Popular Post Times on Reddit Regarding the Israel-Palestine Conflict",
+        "description": "An analytical report exploring posting activity on Reddit discussions of the Israel-Palestine conflict. Using Tableau visualizations, the project identifies the most popular posting hours to infer potential author locations. Findings are compiled and published in a GitBook blog, providing accessible insights into posting behavior and regional engagement patterns.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/analisis-jam-posting/README.md"
+    },
+    "car-purchase-prediction": {
+        "title": "Car Purchase Prediction",
+        "description": "A machine learning application built with XGBoost to predict car purchase likelihood based on age, gender, and annual income. Deployed via Streamlit, the app provides personalized insights by recommending suitable cars for positive predictions or suggesting career paths to improve income for negative predictions, enabling data-driven decision support for potential buyers.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/car-purchase-prediction/README.md"
+    },
+    "visualizing-the-history-of-nobel-prize-winners": {
+        "title": "Visualizing the History of Nobel Prize Winners",
+        "description": "A data analysis project using Nobel Prize laureate data from Kaggle to explore historical trends and patterns. The analysis visualizes winner demographics, prize categories, and country distributions, uncovering insights into representation, repeat winners, and global shifts in scientific recognition over time.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/a-visual-history-of-nobel-prize-winners/README.md"
+    },
+    "titanic-survival-prediction": {
+        "title": "Titanic Survival Prediction",
+        "description": "An experiment with machine learning model deployment using the Django framework on Heroku. This project features a simple machine learning model that utilizes the Logistic Regression algorithm to predict the survival of passengers aboard the Titanic.",
+        "link": "https://github.com/azizp128/titanic-survival-prediction-django"
+    },
+    "exploring-nyc-public-school-test-result-scores": {
+        "title": "Exploring NYC Public School Test Result Scores",
+        "description": "A data analysis project examining SAT performance across New York City public schools using the schools.csv dataset. The analysis explores reading, math, and writing scores to uncover patterns in student achievement and answer key questions relevant to policymakers, educators, researchers, and parents, supporting data-driven decisions in education.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/exploring-nyc-public-school-test-result-scores/README.md"
+    },
+    "customer-analytics-preparing-data-for-modeling": {
+        "title": "Customer Analytics: Preparing Data for Modeling",
+        "description": "A data preparation project focused on optimizing large-scale customer datasets for efficient machine learning modeling. Using customer_train.csv from Training Data Ltd., the project applies data cleaning and transformation techniques to improve storage efficiency and readiness for predictive modeling, enabling faster execution without compromising dataset integrity. This proof-of-concept supports future predictive analytics on student career intentions and targeted recruiter connections",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/customer-analytics-preparing-data-for-modeling/README.md"
+    },
+    "analyzing-crime-in-los-angeles": {
+        "title": "Analyzing Crime in Los Angeles",
+        "description": "A data analysis project using crime records from the Los Angeles Open Data portal to uncover patterns in criminal activity across the city. The analysis provides actionable insights to support the LAPD in resource allocation, helping identify crime hotspots, temporal trends, and behavioral patterns to improve public safety strategies.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/analyzing-crime-in-los-angeles/README.md"
+    },
+    "predicting-movie-rental-durations": {
+        "title": "Predicting Movie Rental Durations",
+        "description": "A machine learning regression project developed for a DVD rental company to predict rental durations based on customer and transaction features. By experimenting with multiple regression models and optimizing for a mean squared error (MSE) of 3 or less, the project supports efficient inventory planning and improved operational decision-making.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/predicting-movie-rental-durations/README.md"
+    },
+    "exploring-airbnb-market-trends": {
+        "title": "Exploring Airbnb Market Trends",
+        "description": "A data analysis project exploring New York City’s Airbnb market by integrating datasets from multiple file formats (.csv, .tsv, .xlsx). The analysis uncovers patterns in listings, pricing, and availability, providing insights into market dynamics and lodging trends in one of the world’s most visited cities.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/exploring-airbnb-market-trends/README.md"
+    },
+    "predicting-credit-card-approvals": {
+        "title": "Predicting Credit Card Approvals",
+        "description": "A machine learning project that automates the prediction of credit card application approvals, replicating processes used by commercial banks. Using applicant financial and demographic attributes, the model streamlines decision-making by reducing manual review, minimizing errors, and improving efficiency in evaluating creditworthiness.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/predicting-credit-card-approvals/README.md"
+    },
+    "investigating-netflix-movies": {
+        "title": "Investigating Netflix Movies",
+        "description": "An exploratory data analysis project using netflix dataset to investigate trends in Netflix’s 1990s movie catalog. The analysis uncovers patterns in genres, release years, and movie attributes, providing insights for a production company focused on nostalgic content strategies.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/investigating-netflix-movies/README.md"
+    }
+}
