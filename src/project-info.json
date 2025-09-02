@@ -4,6 +4,11 @@
         "description": "A machine learning-based prediction system designed to assess candidate suitability in the recruitment process. It uses historical applicant data to predict hiring outcomes, helping streamline decision-making and improve the accuracy of candidate selection.",
         "link": "https://github.com/azizp128/hiring-decision-prediction"
     },
+    "customer-personality-segmentation": {
+        "title": "Customer Personality Segmentation",
+        "description": "A machine learning-based customer segmentation system that analyzes demographic, financial, and behavioral data to predict customer clusters, enabling businesses to optimize marketing strategies, boost retention, and drive revenue growth.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/customer-personality-segmentation/README.md"
+    },
     "ctf-solvers": {
         "title": "CTF Solvers",
         "description": "A curated collection of Capture The Flag (CTF) exploits and solvers I wrote for fun, covering web security, reverse engineering, binary exploitation, and more.",
