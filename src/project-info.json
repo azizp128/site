@@ -47,7 +47,7 @@
     "telco-customer-churn-analysis": {
         "title": "Telco Customer Churn Analysis",
         "description": "A data-driven analytical report examining customer churn patterns in the telecommunications industry. Using historical customer data, the analysis identifies key factors driving churn versus retention, providing actionable insights to design targeted retention strategies, improve service offerings, and support long-term revenue growth.",
-        "link": "https://docs.google.com/presentation/d/1pgEPjTATiOYSCdje7S8HOFDcKOVMgBbICMu2BefwKt0/edit?usp=sharing"
+        "link": "https://github.com/azizp128/data-science-projects/tree/main/telco-customer-churn-analysis/README.md"
     },
     "youtube-channel-views-prediction": {
         "title": "Youtube Channel Views Prediction",
