@@ -22,7 +22,7 @@
     "supplement-sales-analysis": {
         "title": "Supplement Sales Analysis",
         "description": "A data-driven sales analysis report evaluating the effectiveness of promotional discounts across regions and store types. By leveraging historical sales data, the report identifies key factors driving promotional success, providing actionable insights for WOMart to optimize campaign strategies and enhance revenue performance.",
-        "link": "https://docs.google.com/presentation/d/1Gw7qepyeSb50D-SZRzRGSpTDAuB4LW2Kyb6p2Ca0hiM/edit?usp=sharing"
+        "link": "https://github.com/azizp128/data-science-projects/tree/main/supplement-sales-analysis/README.md"
     },
     "telco-customer-churn-prediction": {
         "title": "Telco Customer Churn Prediction",
