@@ -27,7 +27,7 @@
     "telco-customer-churn-prediction": {
         "title": "Telco Customer Churn Prediction",
         "description": "A machine learning-based predictive model designed to identify customers at high risk of churn in the telecommunications industry. Leveraging historical customer data, the model applies classification techniques and evaluates performance using F1-score, Precision, Recall, and ROC AUC. This enables proactive and data-driven retention strategies, helping the company reduce churn and strengthen customer loyalty.",
-        "link": "https://github.com/azizp128/data-science-projects/blob/main/telco-customer-churn-prediction/notebook.ipynb"
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/telco-customer-churn-prediction/README.md"
     },
     "web-dev-projects": {
         "title": "Web Development Projects",
