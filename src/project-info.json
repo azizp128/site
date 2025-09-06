@@ -57,7 +57,7 @@
     "ab-testing-the-effect-of-campaign-frequency-on-deposit-account-opening": {
         "title": "A/B Testing the Effect of Campaign Frequency on Deposit Account Opening",
         "description": "An A/B testing analysis designed to evaluate the impact of campaign frequency on deposit account openings in a banking context. Using bank dataset, the report examines whether higher campaign exposure influences user conversion rates, providing evidence-based insights to optimize marketing strategies and improve customer acquisition.",
-        "link": "https://github.com/azizp128/data-science-projects/blob/main/ab-testing-pengaruh-frekuensi-campaign-terhadap-konversi-pembukaan-akun-deposit/notebook.ipynb"
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/ab-testing-the-effect-of-campaign-frequency-on-deposit-account-opening/README.md"
     },
     "categorical-feature-encoding-challenge-II": {
         "title": "Categorical Feature Encoding Challenge II",
