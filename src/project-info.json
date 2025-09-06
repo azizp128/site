@@ -52,7 +52,7 @@
     "youtube-channel-views-prediction": {
         "title": "Youtube Channel Views Prediction",
         "description": "A machine learning-based regression project designed to predict YouTube video views using metadata and engagement statistics. The analysis includes data cleaning, feature engineering, and model experimentation with Linear Regression, Random Forest, and XGBoost. Model performance is evaluated with RMSE, MAE, and R² Score, while feature importance analysis provides insights into the key factors influencing video popularity.",
-        "link": "https://github.com/azizp128/data-science-projects/blob/main/youtube-views-prediction/notebook.ipynb"
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/youtube-views-prediction/README.md"
     },
     "ab-testing-the-effect-of-campaign-frequency-on-deposit-account-opening": {
         "title": "A/B Testing the Effect of Campaign Frequency on Deposit Account Opening",
