@@ -9,6 +9,11 @@
         "description": "A machine learning-based customer segmentation system that analyzes demographic, financial, and behavioral data to predict customer clusters, enabling businesses to optimize marketing strategies, boost retention, and drive revenue growth.",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/customer-personality-segmentation/README.md"
     },
+      "customer-clicked-ads-classification": {
+        "title": "Customer Clicked Ads Classification",
+        "description": "A machine learning-based advertisement click prediction system that analyzes demographic, behavioral, and online activity data to classify customers as likely or unlikely to click on ads, enabling businesses to optimize targeting strategies, reduce marketing costs, improve conversion rates, and maximize campaign profitability.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/clicked-ads-prediction/README.md"
+    },
     "ctf-solvers": {
         "title": "CTF Solvers",
         "description": "A curated collection of Capture The Flag (CTF) exploits and solvers I wrote for fun, covering web security, reverse engineering, binary exploitation, and more.",
