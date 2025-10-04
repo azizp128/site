@@ -9,10 +9,15 @@
         "description": "A machine learning-based customer segmentation system that analyzes demographic, financial, and behavioral data to predict customer clusters, enabling businesses to optimize marketing strategies, boost retention, and drive revenue growth.",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/customer-personality-segmentation/README.md"
     },
-      "customer-clicked-ads-classification": {
+    "customer-clicked-ads-classification": {
         "title": "Customer Clicked Ads Classification",
         "description": "A machine learning-based advertisement click prediction system that analyzes demographic, behavioral, and online activity data to classify customers as likely or unlikely to click on ads, enabling businesses to optimize targeting strategies, reduce marketing costs, improve conversion rates, and maximize campaign profitability.",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/clicked-ads-prediction/README.md"
+    },
+    "employee-attrition-prediction": {
+        "title": "Employee Attition Prediction",
+        "description": "A machine learning-based employee attrition prediction system that analyzes demographic, performance, and engagement data to identify employees at risk of resigning, enabling organizations to take proactive actions, improve retention strategies, reduce turnover costs, and foster a more stable and productive workforce.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/employee-attrition-prediction/README.md"
     },
     "ctf-solvers": {
         "title": "CTF Solvers",
