@@ -15,7 +15,7 @@
         "link": "https://github.com/azizp128/data-science-projects/blob/main/clicked-ads-prediction/README.md"
     },
     "employee-attrition-prediction": {
-        "title": "Employee Attition Prediction",
+        "title": "Employee Attrition Prediction",
         "description": "A machine learning-based employee attrition prediction system that analyzes demographic, performance, and engagement data to identify employees at risk of resigning, enabling organizations to take proactive actions, improve retention strategies, reduce turnover costs, and foster a more stable and productive workforce.",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/employee-attrition-prediction/README.md"
     },
