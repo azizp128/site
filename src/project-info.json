@@ -19,6 +19,11 @@
         "description": "A machine learning-based employee attrition prediction system that analyzes demographic, performance, and engagement data to identify employees at risk of resigning, enabling organizations to take proactive actions, improve retention strategies, reduce turnover costs, and foster a more stable and productive workforce.",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/employee-attrition-prediction/README.md"
     },
+    "sales-dashboard-bi-analyst": {
+        "title": "Sales Report Business Intelligence Analyst",
+        "description": "A business intelligence project that analyzes transactional sales data from multiple cities and product categories to uncover revenue patterns, identify top-performing markets, and highlight underperforming areas. By integrating SQL-based data extraction and interactive dashboard visualization, the system enables management to make data-driven decisions, optimize marketing strategies, improve inventory allocation, and maximize overall sales performance.",
+        "link": "https://github.com/azizp128/data-science-projects/blob/main/sales-dashboard-bi-analyst/README.md"
+    },
     "ctf-solvers": {
         "title": "CTF Solvers",
         "description": "A curated collection of Capture The Flag (CTF) exploits and solvers I wrote for fun, covering web security, reverse engineering, binary exploitation, and more.",
