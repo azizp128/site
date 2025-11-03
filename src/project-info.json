@@ -6,7 +6,7 @@
     },
     "talent-match-intelligence": {
         "title": "Talent Match Intelligence",
-        "description": "A data-driven AI-powered application for identifying high-potential employees based on competency and psychometric benchmarks.",
+        "description": "A data-driven AI-powered HR analytics platform for identifying high-potential employees based on competency and psychometric benchmarks. It combines SQL-based algorithms, AI-generated job profiles, and interactive dashboards to optimize internal talent matching and workforce planning.",
         "link": "https://github.com/azizp128/talent-match-intelligence"
     },
     "hiring-decision-prediction": {
@@ -31,7 +31,7 @@
     },
     "sales-dashboard-bi-analyst": {
         "title": "Sales Report Business Intelligence Analyst",
-        "description": "A business intelligence project that analyzes transactional sales data from multiple cities and product categories to uncover revenue patterns, identify top-performing markets, and highlight underperforming areas. By integrating SQL-based data extraction and interactive dashboard visualization, the system enables management to make data-driven decisions, optimize marketing strategies, improve inventory allocation, and maximize overall sales performance.",
+        "description": "A business intelligence project that analyzes transactional sales data from multiple cities and product categories to uncover revenue patterns, identify top-performing markets, and highlight underperforming areas. ",
         "link": "https://github.com/azizp128/data-science-projects/blob/main/sales-dashboard-bi-analyst/README.md"
     },
     "ctf-solvers": {
