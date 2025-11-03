@@ -1,4 +1,14 @@
  {  
+    "financial-management-dashboard": {
+        "title": "Financial Management Dashboard",
+        "description": "A modern, interactive dashboard for analyzing and visualizing financial data, built with Streamlit and Plotly. This tool helps businesses and analysts gain actionable insights into revenue, expenses, profit margins, and more.",
+        "link": "https://github.com/azizp128/financial-management-dashboard"
+    },
+    "talent-match-intelligence": {
+        "title": "Talent Match Intelligence",
+        "description": "A data-driven AI-powered application for identifying high-potential employees based on competency and psychometric benchmarks.",
+        "link": "https://github.com/azizp128/talent-match-intelligence"
+    },
     "hiring-decision-prediction": {
         "title": "Hiring Decision Prediction",
         "description": "A machine learning-based prediction system designed to assess candidate suitability in the recruitment process. It uses historical applicant data to predict hiring outcomes, helping streamline decision-making and improve the accuracy of candidate selection.",
